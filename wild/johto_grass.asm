@@ -509,17 +509,17 @@ JohtoGrassWildMons:
 	def_grass_wildmons SLOWPOKE_WELL_B1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 7, SLOWPOKE
+	db 7, ZUBAT
 	db 6, SLOWPOKE
-	db 7, SLOWPOKE
+	db 7, ZUBAT
 	db 6, POLIWAG
 	db 8, ZUBAT
 	db 8, SLOWPOKE
 	db 8, PSYDUCK
 	; day
+	db 6, ZUBAT
 	db 6, SLOWPOKE
-	db 6, SLOWPOKE
-	db 7, PSYDUCK
+	db 7, ZUBAT
 	db 6, SLOWPOKE
 	db 8, ZUBAT
 	db 8, POLIWAG
