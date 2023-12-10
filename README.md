@@ -3,12 +3,19 @@
 All boss teams are updated, often with more challenging pokemon with stronger movesets. More opponent pokemon now hold items. 
 
 TMs are reusable
+
 Certain TMs previously only available in the post-game are now accessible earlier. 
+
 There are new TMs added
+
 HMs are deleteable 
+
 Most wild enocunter tables are updated
+
 Some previously unavailable pokemon are now catcheable. All legendaries including the Kanto birds, mew, and mewtwo are catcheable before the pokemon league. 
+
 No new pokemon or fakemon are added
+
 The three starters have been changed
 Many pokemon have learnset upgrades
 Trade evolutions now evolve by evolution stone. 
