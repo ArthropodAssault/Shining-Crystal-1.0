@@ -1,4 +1,4 @@
-# Shining-Crystal-1.0 Changelog and helpful tips
+# Shining-Crystal-1.0 Changelog 
 
 All boss teams are updated, often with more challenging pokemon with stronger movesets. More opponent pokemon now hold items. 
 
