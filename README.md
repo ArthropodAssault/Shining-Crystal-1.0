@@ -29,3 +29,6 @@ Select moves are buffed
 A few pokemon have their base stats buffed. For example - Feraligatr and arcanine's special attack and attack stats are reversed compared to the vanilla games. Ie - arcanine now has 110 special attack and 100 attack. 
 
 There is one pokemon with a type change
+
+All of the code is searcheable on Github. This allows you to see all the updates to the game. You must be signed in to a Github account to search code. In the code repository, two words will often be separated by an underscore. Ie: "Sunny Day" in the game is written as "sunny_day" in the repository.
+
