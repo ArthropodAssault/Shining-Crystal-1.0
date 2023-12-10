@@ -1,6 +1,7 @@
 # Shining-Crystal-1.0
 
 All boss teams are updated, often with more challenging pokemon with stronger movesets. More opponent pokemon now hold items. 
+
 TMs are reusable
 Certain TMs previously only available in the post-game are now accessible earlier. 
 There are new TMs added
