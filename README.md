@@ -17,9 +17,15 @@ Some previously unavailable pokemon are now catcheable. All legendaries includin
 No new pokemon or fakemon are added
 
 The three starters have been changed
+
 Many pokemon have learnset upgrades
+
 Trade evolutions now evolve by evolution stone. 
+
 The evolution stones arw now purchaseable. 
-Select moves are buffed    
+
+Select moves are buffed 
+
 A few pokemon have their base stats buffed. For example - Feraligatr and arcanine's special attack and attack stats are reversed compared to the vanilla games. Ie - arcanine now has 110 special attack and 100 attack. 
+
 There is one pokemon with a type change
