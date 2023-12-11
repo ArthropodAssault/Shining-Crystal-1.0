@@ -22,7 +22,7 @@ Many pokemon have learnset upgrades
 
 Trade evolutions now evolve by evolution stone. 
 
-The evolution stones arw now purchaseable. 
+The evolution stones arw now purchaseable in certain marts. 
 
 Select moves are buffed 
 
