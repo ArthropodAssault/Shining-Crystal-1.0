@@ -4,6 +4,12 @@ All boss teams are updated, often with more challenging pokemon with stronger mo
 
 There are modifications to the trainer and wild level curves. These are especially prominent in the postgame. 
 
+Opponent status moves no longer have a 25% accuracy debuff. 
+
+Many bosses have buffed DVs
+
+Badge boosts are removed from the game. This includes both the attack type and stat boosts. 
+
 TMs are reusable
 
 Certain TMs previously only available in the post-game are now accessible earlier. 
@@ -14,11 +20,17 @@ HMs are deleteable
 
 Most wild enocunter tables are updated
 
+Some pokemon have increased catch rates to make them more suitable as early game encounters for nuzlockers. 
+
+Fewer pokemon flee and pokemon with roar or whirlwind their learnset have it removed. The roaming legendaries still always flee unless trapped. 
+
 Some previously unavailable pokemon are now catcheable. All legendaries including the Kanto birds, mew, and mewtwo are catcheable before the pokemon league. 
 
 Some gift and trade pokemon are replaced with new pokemon. 
 
-No new pokemon or fakemon are added
+Eggs hatch with fewer steps. 
+
+Friendship accrues quicker.
 
 The three starters have been changed
 
@@ -32,9 +44,13 @@ Select moves are buffed
 
 A few pokemon have their base stats buffed. For example - Feraligatr and arcanine's special attack and attack stats are reversed compared to the vanilla games. Ie - arcanine now has 110 special attack and 100 attack. 
 
-DVs are no longer associated with gender. 
+DVs are no longer associated with gender. Hidden power type is still based on DVs. 
+
+No new pokemon or fakemon are added
 
 There are no changes to the map. 
+
+The physical-special split, abilities, and natures are not in this game. 
 
 The clock change procedure is simplified. From the title screen you press Down + B + Select to reset the clock. 
 
