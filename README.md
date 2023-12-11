@@ -32,11 +32,14 @@ Select moves are buffed
 
 A few pokemon have their base stats buffed. For example - Feraligatr and arcanine's special attack and attack stats are reversed compared to the vanilla games. Ie - arcanine now has 110 special attack and 100 attack. 
 
+DVs are no longer associated with gender. 
+
 There are no changes to the map. 
 
 The clock change procedure is simplified. From the title screen you press Down + B + Select to reset the clock. 
 
-Rare candies are purchaseable at every mart for 1 pokedollar. There are a few other quality of life features incorportated that I would prefer not to spoil. This game does not work with PKHex. 
+Rare candies are purchaseable at every mart for 1 pokedollar. There are a few other quality of life features incorportated that I would prefer not to spoil. This game is incompatible with PKHex. 
 
 All of the code is searcheable on Github. This allows you to see all the updates to the game. You must be signed in to a Github account to search code. In the code repository, two words will often be separated by an underscore. Ie: "Sunny Day" in the game is written as "sunny_day" in the repository.
 
+I've designed this game for hardcore nuzlocking. Certain game components, such as level caps, route encounters, and rare candy availability are built specifically with hardcore nuzlocking in mind. This should not detract from non-nuzlocke gameplay. 
