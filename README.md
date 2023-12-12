@@ -63,3 +63,15 @@ This game is incompatible with PKHex.
 All of the code is searcheable on Github. This allows you to see all the updates to the game including changes to moves, learnsets, base stats, etc. You must be signed in to a Github account to search code. Here is a search tip: in the code repository, two words will often be separated by an underscore. Ie: "Sunny Day" in the game is written as "sunny_day" in the repository.
 
 I've designed this game for hardcore nuzlocking. Certain game components such as level caps, route encounters, and rare candy availability are built specifically with that in mind. This need not detract from non-nuzlocke gameplay. 
+
+Here are some of files that may be of particular interest: 
+
+data/wild includes all wild encounter tables
+
+data/trainers/parties includes all enemy trainer parties
+
+data/pokemon/base_stats includes base stats, TM/HM learnsets, typing, growth rate, and more for each pokemon
+
+data/moves/moves contains data on each move including type, base power, accuracy, secondary effect, and more
+
+data/items/marts contains which items are sold at each mart
