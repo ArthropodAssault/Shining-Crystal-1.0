@@ -75,3 +75,5 @@ data/pokemon/base_stats includes base stats, TM/HM learnsets, typing, growth rat
 data/moves/moves contains data on each move including type, base power, accuracy, secondary effect, and more
 
 data/items/marts contains which items are sold at each mart
+
+data/pokemon/evos_attacks contains information on evolution and level-up learnsets
