@@ -1,4 +1,4 @@
-_**Shining Crystal 1.0 Changelog**_
+__**Shining Crystal 1.0 Changelog**__
 
 All boss teams are updated, often with more challenging pokemon with stronger movesets.
 
