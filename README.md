@@ -34,7 +34,7 @@ Eggs hatch with fewer steps.
 
 Friendship accrues quicker.
 
-The three starters are changed.
+The starters are changed.
 
 Many pokemon have learnset upgrades.
 
